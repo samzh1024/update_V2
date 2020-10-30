@@ -1,0 +1,23 @@
+[
+  {
+    "name": "測試用資料",
+    "gameCategory": [
+      802, 803
+    ],
+    "gameMaster": "",
+    "gameSpec": "",
+    "line": "",
+    "bonus": "",
+    "platform_product": ""
+  },{
+  "name": "我不知道",
+  "gameCategory": [
+    802, 803
+  ],
+  "gameMaster": "",
+  "gameSpec": "",
+  "line": "",
+  "bonus": "",
+  "platform_product": ""
+  }
+]
